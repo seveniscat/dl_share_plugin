@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="TSCameraPhotos"
+        path="/DCIM/TSPlusPhotoFolder/"/>
+    <root-path path="" name="." />
+
+    <!--qq官方分享sdk共享路径-->
+    <root-path name="opensdk_root" path =""/>
+    <external-files-path
+        name="opensdk_external"
+        path="Images/tmp"/>
+    <!--友盟微信分享sdk 共享路径-->
+    <external-files-path
+        name="umeng_cache"
+        path="umeng_cache/"/>
+    <external-path
+        name="files_root"
+        path="Android/data/com.mobcb.hotfixdemo/" />
+    <external-files-path
+        name="share_files"
+        path="."/>
+    <external-files-path name="sharedata" path="storage/emulated/0/Android/data/com.datalink.grainapp/"/>
+    <external-files-path name="sharedata2" path="data/user/0/com.datalink.grainapp/"/>
+</paths>
